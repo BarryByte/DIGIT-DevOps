@@ -42,6 +42,8 @@ You have successfully set up a k3d cluster with data persistence and verified it
 ![Screenshot from 2024-03-26 23-03-06](https://github.com/BarryByte/DIGIT-DevOps/assets/145528099/6f256815-f4e6-4ef0-899d-ebd7b23ac461)
 ![Screenshot from 2024-03-26 23-00-07](https://github.com/BarryByte/DIGIT-DevOps/assets/145528099/a68e1773-e053-4982-b458-6d3c0c2df635)
 
+![Screenshot from 2024-03-28 21-27-56](https://github.com/BarryByte/DIGIT-DevOps/assets/145528099/949e1ab6-c1d1-4e4f-9f9c-06493276e0da)
+
 
 
 
